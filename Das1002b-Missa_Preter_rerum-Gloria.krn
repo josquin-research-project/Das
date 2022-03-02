@@ -1,13 +1,13 @@
-!!!COM:	Daser, Ludwig
-!!!CDT:	~1526-1589/03/27
-!!!OPR:	Missa Preter rerum
-!!!ONM:	2
-!!!OTL:	Gloria
-!!!AGN:	Mass; Gloria
-!!!SCT:	Das1002b
-!!!SCA:	Das1002b
-!!!voices-OPR:	6
-!!!voices:	6
+!!!COM: Daser, Ludwig
+!!!CDT: ~1526-1589/03/27
+!!!OPR: Missa Preter rerum
+!!!ONM: 2
+!!!OTL: Gloria
+!!!AGN: Mass; Gloria
+!!!SCT: Das1002b
+!!!SCA: Das1002b
+!!!voices-OPR: 6
+!!!voices: 6
 **kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff6	*staff6	*staff5	*staff5	*staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -1104,9 +1104,9 @@
 *-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Stephanie P. Schlagel 2016/05/22
-!!!END:	2016/05/22/
-!!!EED:	Jesse Rodin
-!!!EEV:	2016/05/30/
-!!!ONB:	Translated from MusicXML and edited on 2016/05/30/ by Craig Sapp
+!!!ENC: Stephanie P. Schlagel 2016/05/22
+!!!END: 2016/05/22/
+!!!EED: Jesse Rodin
+!!!EEV: 2016/05/30/
+!!!ONB: Translated from MusicXML and edited on 2016/05/30/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v100,100,100,100,100,120Q16z18c65
